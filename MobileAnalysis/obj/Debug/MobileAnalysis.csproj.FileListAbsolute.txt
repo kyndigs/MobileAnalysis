@@ -1,0 +1,10 @@
+D:\Development\Projects\MobileAnalysis\MobileAnalysis\bin\Debug\MobileAnalysis.exe.config
+D:\Development\Projects\MobileAnalysis\MobileAnalysis\bin\Debug\MobileAnalysis.exe
+D:\Development\Projects\MobileAnalysis\MobileAnalysis\bin\Debug\MobileAnalysis.pdb
+D:\Development\Projects\MobileAnalysis\MobileAnalysis\bin\Debug\Newtonsoft.Json.dll
+D:\Development\Projects\MobileAnalysis\MobileAnalysis\bin\Debug\Newtonsoft.Json.xml
+D:\Development\Projects\MobileAnalysis\MobileAnalysis\obj\Debug\MobileAnalysis.csprojAssemblyReference.cache
+D:\Development\Projects\MobileAnalysis\MobileAnalysis\obj\Debug\MobileAnalysis.csproj.CoreCompileInputs.cache
+D:\Development\Projects\MobileAnalysis\MobileAnalysis\obj\Debug\MobileAnalysis.csproj.CopyComplete
+D:\Development\Projects\MobileAnalysis\MobileAnalysis\obj\Debug\MobileAnalysis.exe
+D:\Development\Projects\MobileAnalysis\MobileAnalysis\obj\Debug\MobileAnalysis.pdb
